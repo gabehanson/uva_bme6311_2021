@@ -1,2 +1,2 @@
 # uva_bme6311_2021
-sandbox for bme6311
+Each person on your team should add their name to this file and submit.
